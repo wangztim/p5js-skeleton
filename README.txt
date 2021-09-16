@@ -9,10 +9,8 @@ You have downloaded the complete p5.js library ZIP file, yay!
 * addons folder
   * p5.sound.js
   * p5.sound.min.js
-* empty-example folder
+* src folder
   * index.html
-  * p5.js
-  * p5.sound.js
   * sketch.js
 
 ## p5.js
@@ -31,7 +29,7 @@ The addons folder includes additional p5.js related libraries, in both original 
 
 p5.sound extends p5.js with Web Audio functionality including audio input, playback, analysis, and synthesis.
 
-## empty-example folder
+## src folder
 
 This is an empty example of a website. The folder includes the file for the website, index.html, the p5.js library, other related p5.js libraries, and a template starting point for your p5.js sketch, called sketch.js.
 
@@ -55,7 +53,7 @@ https://p5js.org/get-started/ and https://p5js.org/learn/
 An online reference to the p5.js library is available here:  
 https://p5js.org/reference/
 
-In order to run your website (including the empty-example), you need to enable a local server, please see this tutorial in our wiki:  
+In order to run your website (including the src), you need to enable a local server, please see this tutorial in our wiki:  
 https://github.com/processing/p5.js/wiki/Local-server
 
 p5.js is a community and p5.js is built by contributions. If you want to learn more about us, visit:  
